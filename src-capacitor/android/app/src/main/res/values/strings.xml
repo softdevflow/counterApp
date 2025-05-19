@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="title_activity_main">Counter App</string>
+    <string name="package_name">org.nastea.counter.app</string>
+    <string name="custom_url_scheme">org.nastea.counter.app</string>
+</resources>
